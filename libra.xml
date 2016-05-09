@@ -2,15 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <libra>
-            <Filename>ResurrectionRemix-M-v5.6.8-20160509-libra.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download ResurrectionRemix builds">https://basketbuild.com/uploads/devs/resurrectionremix/libra/ResurrectionRemix-M-v5.6.8-20160509-libra.zip</RomUrl>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160509-libra</Filename>
+            <BuildUrl
+            	id="build"
+            	title="LatestBuild"
+            	description="Download Latest Build">https://s.basketbuild.com/filedl/devs?dev=resurrectionremix&dl=resurrectionremix/libra/ResurrectionRemix-M-v5.6.8-20160509-libra.zip</BuildUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix MI 4c builds">https://s.basketbuild.com/devs/resurrectionremix/libra</RomUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
