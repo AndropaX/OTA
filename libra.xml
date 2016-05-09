@@ -6,7 +6,7 @@
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://s.basketbuild.com/filedl/devs?dev=resurrectionremix&dl=resurrectionremix/libra/ResurrectionRemix-M-v5.6.8-20160509-libra.zip</BuildUrl>
+            	description="Download Latest Build">https://s.basketbuild.com/uploads/devs/resurrectionremix/libra/ResurrectionRemix-M-v5.6.8-20160509-libra.zip</BuildUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
