@@ -15,10 +15,10 @@
                 id="rom"
                 title="Rom"
                 description="Download ResurrectionRemix MI 4c builds">https://s.basketbuild.com/devs/resurrectionremix/libra</RomUrl>
-            <SlimGappsUrl
-            	id="gapps"
-            	title="Gapps"
-            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="OpenGApps"
+            	description="Download latest Open GApps">http://opengapps.org/</OpenGappsUrl>
 	</libra>
     </Stable>
 </SlimOTA>
