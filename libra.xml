@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <libra>
-            <Filename>ResurrectionRemix-M-v5.6.8-20160516-libra</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160517-libra</Filename>
             <BuildUrl
             	id="build"
             	title="Latest Build"
-            	description="Download Latest Build">https://s.basketbuild.com/uploads/devs/resurrectionremix/libra/ResurrectionRemix-M-v5.6.8-20160516-libra.zip</BuildUrl>
+            	description="Download Latest Build">https://s.basketbuild.com/uploads/devs/resurrectionremix/libra/ResurrectionRemix-M-v5.6.8-20160517-libra.zip</BuildUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
