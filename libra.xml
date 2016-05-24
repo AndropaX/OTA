@@ -20,5 +20,24 @@
             	title="OpenGApps"
             	description="Download latest Open GApps">http://opengapps.org/</OpenGappsUrl>
 	</libra>
+	<aqua>
+            <Filename>ResurrectionRemix-M-v5.6.9-20160524-aqua</Filename>
+            <BuildUrl
+            	id="build"
+            	title="Latest Build"
+            	description="Download Latest Build">https://s.basketbuild.com/uploads/devs/resurrectionremix/aqua/ResurrectionRemix-M-v5.6.9-20160524-aqua.zip</BuildUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix MI 4s builds">https://s.basketbuild.com/devs/resurrectionremix/aqua</RomUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="OpenGApps"
+            	description="Download latest Open GApps">http://opengapps.org/</OpenGappsUrl>
+	</aqua>
     </Stable>
 </SlimOTA>
