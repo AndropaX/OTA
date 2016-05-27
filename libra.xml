@@ -14,7 +14,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix MI 4c builds">https://s.basketbuild.com/devs/resurrectionremix/libra</RomUrl>
+                description="Download ResurrectionRemix MI 4c/s builds">https://s.basketbuild.com/devs/resurrectionremix/libra</RomUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
