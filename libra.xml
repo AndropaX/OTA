@@ -3,6 +3,10 @@
     <Stable>
         <libra>
             <Filename>ResurrectionRemix-N-v5.8.0-20161126-libra</Filename>
+	    <BuildUrl
+            	id="build"
+            	title="Latest Build"
+            	description="Download Latest Build">https://www.androidfilehost.com/?fid=457095661767118984</BuildUrl>
             <RomUrl
             	id="rom"
             	title="Rom"
