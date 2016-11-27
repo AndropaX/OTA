@@ -15,10 +15,6 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
-            <Rom2Url
-                id="rom2"
-                title="Alternate Link"
-                description="Alternate link to download builds">https://basketbuild.com/devs/resurrectionremix/libra</Rom2Url>
             <OpenGappsUrl
             	id="open_gapps"
             	title="Open GApps"
