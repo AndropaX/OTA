@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <libra>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161202-libra</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161204-libra</Filename>
 	    <BuildUrl
             	id="build"
             	title="Latest Build"
-            	description="Download Latest Build">https://www.androidfilehost.com/?fid=529152257862686222</BuildUrl>
+            	description="Download Latest Build">https://www.androidfilehost.com/?fid=529152257862686638</BuildUrl>
             <RomUrl
             	id="rom"
             	title="Rom"
@@ -19,6 +19,10 @@
             	id="open_gapps"
             	title="Open GApps"
             	description="Download latest Open GApps">http://opengapps.org/</OpenGappsUrl>
+	    <XdaThreadUrl
+		id="xda_thread"
+		title="Xda Thread"
+		description="Visit Rom thread on Xda">http://forum.xda-developers.com/mi-4c/development/official-resurrection-remix-libra-aqua-t3507773</XdaThreadUrl>       
 	</libra>
     </Stable>
 </SlimOTA>
