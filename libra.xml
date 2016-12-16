@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <libra>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161211-libra</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161216-libra</Filename>
 	    <BuildUrl
             	id="build"
             	title="Latest Build"
-            	description="Download Latest Build">https://www.androidfilehost.com/?fid=673368273298916099</BuildUrl>
+            	description="Download Latest Build">https://www.androidfilehost.com/?fid=529152257862688990</BuildUrl>
             <RomUrl
             	id="rom"
             	title="Rom"
