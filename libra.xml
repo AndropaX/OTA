@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <libra>
-            <Filename>RR-N-v5.8.0-20161223-libra-official</Filename>
+            <Filename>RR-N-v5.8.0-20161231-libra-Official</Filename>
 	    <BuildUrl
             	id="build"
             	title="Latest Build"
-            	description="Download Latest Build">http://downloads.resurrectionremix.com/libra/RR-N-v5.8.0-20161223-libra-official.zip</BuildUrl>
+            	description="Download Latest Build">http://downloads.resurrectionremix.com/libra/RR-N-v5.8.0-20161231-libra-Official.zip</BuildUrl>
             <RomUrl
             	id="rom"
             	title="Rom"
