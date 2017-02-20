@@ -7,6 +7,10 @@
             	id="build"
             	title="Latest Build"
             	description="Download Latest Build">http://downloads.resurrectionremix.com/libra/RR-N-v5.8.1-20170214-libra-Official.zip</BuildUrl>
+	    <TestUrl
+		id="test"
+		title="<font color=#f37981>Test</font>"
+		description="<font color=#f37981>Test link</font>">http://example.com</TestUrl>     
             <RomUrl
             	id="rom"
             	title="Rom"
