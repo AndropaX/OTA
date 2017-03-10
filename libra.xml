@@ -14,7 +14,7 @@
             <RomUrl
             	id="rom"
             	title="Rom"
-            	description="Download ResurrectionRemix MI 4c/s builds">http://downloads.resurrectionremix.com/libra/</RomUrl>
+            	description="Download ResurrectionRemix MI 4c builds">http://downloads.resurrectionremix.com/libra/</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
