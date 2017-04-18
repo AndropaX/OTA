@@ -2,15 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <libra>
-            <Filename>RR-N-v5.8.3-20170414-libra-Official</Filename>
+            <Filename>RR-N-v5.8.3-20170418-libra-Official</Filename>
 	    <BuildUrl
             	id="build"
             	title="Latest Build"
-            	description="Download Latest Build">http://downloads.resurrectionremix.com/libra/RR-N-v5.8.3-20170414-libra-Official.zip</BuildUrl>
-	    <InfoUrl
-		id="info"
-		title="READ ME !!"
-		description="READ BEFORE FLASHING v5.8.2 OR NEWER">https://forum.xda-developers.com/showpost.php?p=71114622&amp;postcount=1196</InfoUrl>     
+            	description="Download Latest Build">http://downloads.resurrectionremix.com/libra/RR-N-v5.8.3-20170418-libra-Official.zip</BuildUrl>
             <RomUrl
             	id="rom"
             	title="Rom"
