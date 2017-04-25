@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <libra>
-            <Filename>RR-N-v5.8.3-20170418-libra-Official</Filename>
+            <Filename>RR-N-v5.8.3-20170425-libra-Official</Filename>
 	    <BuildUrl
             	id="build"
             	title="Latest Build"
-            	description="Download Latest Build">http://downloads.resurrectionremix.com/libra/RR-N-v5.8.3-20170418-libra-Official.zip</BuildUrl>
+            	description="Download Latest Build">https://sourceforge.net/projects/resurrectionremix/files/libra/RR-N-v5.8.3-20170425-libra-Official.zip</BuildUrl>
             <RomUrl
             	id="rom"
             	title="Rom"
-            	description="Download ResurrectionRemix MI 4c builds">http://downloads.resurrectionremix.com/libra/</RomUrl>
+            	description="Download ResurrectionRemix MI 4c builds">https://sourceforge.net/projects/resurrectionremix/files/libra</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
